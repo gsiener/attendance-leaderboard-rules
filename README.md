@@ -1,5 +1,3 @@
-# Attendance Leaderboard
-
 A point-based system for tracking and rewarding attendance at practices and games. The goal is simple: **show up, and if you can't, let us know.**
 
 ## How It Works
