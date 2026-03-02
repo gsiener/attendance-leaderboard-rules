@@ -14,7 +14,7 @@ Every practice and game is worth points. Points accumulate over the season. The 
 | RSVP bonus (confirmed attendance in advance) | +0.2 |
 | Early arrival bonus (before start time) | +0.1 |
 | Buddy bonus (you and a buddy both attend) | +0.2 |
-| Attend, very late (15+ minutes) | 0.7 |
+| Attend, late (15+ minutes) | 0.7 |
 | Absent, notified in advance | 0.5 |
 | Absent, no notice | 0.0 |
 
@@ -30,7 +30,7 @@ Bonuses stack. A player who RSVPs, arrives early, and whose buddy is also there 
 
 **Buddy bonus**: Each player is assigned one or two buddies by the coaches. When you and a buddy both attend the same event, you each earn +0.2. The bonus is per event, not per buddy — attending with one or both buddies is the same +0.2.
 
-**Very late**: Arrive 15 or more minutes after the scheduled start time. You still get credit for showing up, but at a reduced rate.
+**Late**: Arrive 15 or more minutes after the scheduled start time. You still get credit for showing up, but at a reduced rate.
 
 **Notified in advance**: Let a coach know you won't be at practice *before* the scheduled start time. Any notice before practice starts counts — text, message, or in person.
 
