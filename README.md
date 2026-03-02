@@ -10,17 +10,22 @@ Every practice and game is worth points. Points accumulate over the season. The 
 
 | Scenario | Points |
 |---|---|
-| Attend, on time or early | 1.0 |
-| Attend early (before start time) | 1.1 |
+| Attend, on time | 1.0 |
+| RSVP bonus (confirmed attendance in advance) | +0.2 |
+| Early arrival bonus (before start time) | +0.1 |
 | Attend, very late (15+ minutes) | 0.7 |
 | Absent, notified in advance | 0.5 |
 | Absent, no notice | 0.0 |
+
+Bonuses stack. A player who RSVPs, shows up, and arrives early earns **1.3 points**.
 
 ## Definitions
 
 **On time**: Arrive by the scheduled start time.
 
-**Early**: Arrive before the scheduled start time. This earns a 0.1 bonus on top of the standard 1.0.
+**Early**: Arrive before the scheduled start time. This earns a +0.1 bonus on top of the standard 1.0.
+
+**RSVP'd**: Confirmed attendance with a coach before the event. This earns a +0.2 bonus. The RSVP bonus applies to any attended event — on time, early, or late.
 
 **Very late**: Arrive 15 or more minutes after the scheduled start time. You still get credit for showing up, but at a reduced rate.
 
@@ -47,5 +52,6 @@ The leaderboard is updated at the coaches' discretion and may be updated after a
 
 - **Showing up is the most important thing.** That's why it's worth a full point.
 - **Being early matters.** It shows commitment and gives the team more time together.
+- **RSVPing matters.** Knowing who's coming helps coaches plan. Confirming in advance earns a bonus whether you're early, on time, or even late.
 - **Communication matters.** Life happens — we get it. But letting us know you can't make it shows respect for the team. That's worth something (0.5), even if it's not the same as being there.
 - **No-shows with no notice earn nothing.** The team can't plan around you if you don't communicate.
